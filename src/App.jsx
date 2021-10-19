@@ -1,6 +1,6 @@
 import { Link } from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
-import "./index.css";
+
 import Sidebar from "./team/Sidebar";
 // import UserProfileDetail from "./team/UserProfileDetail";
 
